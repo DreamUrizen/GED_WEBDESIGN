@@ -1,0 +1,56 @@
+[
+  {
+    "id": "project1",
+    "title": "창가의 산전량",
+    "thumbnail": "images/project1.jpg",
+    "role": "iPad Pro / Procreate / 개인 작업 (기여도 100%)",
+    "featured": false,
+    "detailImages": ["images/detail1.jpg"],
+    "description": "좋아하는 애니메이션 캐릭터 '산전량'을 두꺼운 붓질 기법으로 그린 팬 아트 작품입니다.\n캐릭터가 창가에 서 있고, 창밖에는 나무 한 그루가 있는 풍경을 담았습니다.\nProcreate의 다양한 브러시를 활용하여 질감과 빛을 표현하는 데 집중했습니다."
+  },
+  {
+    "id": "project4",
+    "title": "노을 아래의 선율",
+    "thumbnail": "images/project4.jpg",
+    "role": "iPad Pro / Procreate / 개인 작업 (기여도 100%)",
+    "featured": true,
+    "detailImages": ["images/detail4.jpg"],
+    "description": "노을이 물든 강가에 작은 배를 띄우고 악기를 연주하는 소녀를 그린 오리지널 일러스트입니다.\n바람에 흩날리는 머리카락과 주변을 맴도는 새들의 움직임을 통해 잔잔하면서도 자유로운 분위기를 표현했습니다.\n따뜻한 오렌지 계열과 차분한 블루 계열의 대비를 활용하여 평화로운 저녁 풍경을 담아냈습니다."
+  },
+  {
+    "id": "project5",
+    "title": "비 오는 날",
+    "thumbnail": "images/project5.jpg",
+    "role": "iPad Pro / Procreate / 개인 작업 (기여도 100%)",
+    "featured": false,
+    "detailImages": ["images/detail5.jpg"],
+    "description": "비 오는 거리에서 우산을 들고 있는 소녀를 단순한 색면과 선으로 표현한 일러스트입니다.\n차분한 보라색과 회색 계열을 중심으로 조용하고 담담한 감정을 전달하고자 했습니다.\n빗방울과 흩날리는 꽃잎을 활용하여 정적인 장면 속에서도 자연스러운 흐름을 만들었습니다."
+  },
+  {
+    "id": "project3",
+    "title": "달을 보는 무사",
+    "thumbnail": "images/project3.jpg",
+    "role": "iPad Pro / Procreate / 개인 작업 (기여도 100%)",
+    "featured": false,
+    "detailImages": ["images/detail3.jpg"],
+    "description": "두꺼운 붓질 기법으로 완성한 오리지널 캐릭터 일러스트입니다.\n현대적인 옷을 입은 남자 캐릭터가 풀밭에 앉아 일본도를 껴안고 있습니다.\n그 옆에는 하얀 여우가 달을 바라보고 있는 장면입니다.\n차분하고 몽환적인 분위기를 표현하기 위해 부드러운 색감과 명암 대비를 사용했습니다."
+  },
+  {
+    "id": "project6",
+    "title": "Jinx Fan Art",
+    "thumbnail": "images/project6.png",
+    "role": "iPad Pro / Procreate / 개인 작업 (기여도 100%)",
+    "featured": false,
+    "detailImages": ["images/detail6.png"],
+    "description": "게임 캐릭터 'Jinx'를 재해석한 팬 아트 작품입니다.\n강렬한 표정과 선명한 색채를 중심으로 캐릭터 특유의 자유롭고 거친 에너지를 표현했습니다.\n단순한 배경과 굵은 라인을 사용하여 시선이 인물에 집중될 수 있도록 구성했습니다."
+  },
+  {
+    "id": "project2",
+    "title": "산전량 Q버전",
+    "thumbnail": "images/project2.jpg",
+    "role": "Adobe Illustrator / Adobe After Effects / 개인 작업 (기여도 100%)",
+    "featured": false,
+    "detailImages": ["images/detail2.jpg"],
+    "description": "캐릭터 '산전량'의 Q버전 아바타를 일러스트로 디자인하고, 짧은 애니메이션으로 만든 작업입니다.\n엄지손가락을 치켜들며 미소 짓는 모습을 통해 귀엽고 긍정적인 에너지를 전달합니다.\n여기서는 애니메이션의 한 장면(정지 이미지)을 전시합니다."
+  }
+]
